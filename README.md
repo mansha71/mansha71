@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [manansharma.ca/](manansharma.ca/)
+- 👨‍💻 All of my projects are available at [manansharma.ca/](https://manansharma.ca/)
 
 - 📫 How to reach me **mansharm71@gmail.com**
 
